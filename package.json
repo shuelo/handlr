@@ -1,0 +1,13 @@
+{
+  "name": "handlr",
+  "version": "0.1.0",
+  "description": "Fast, versatile, framework-agnostic app modeling",
+  "main": "index.js",
+  "author": "Pierre Matri <pierre@shuelo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "await-to-js": "^1.0.1",
+    "dot-object": "^1.7.0",
+    "extendable-error-class": "^0.1.1"
+  }
+}
